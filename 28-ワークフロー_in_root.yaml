@@ -1,0 +1,7 @@
+# パスワード入力
++type_password_1:
+  action>: TypePassword
+  browser: null
+  selector: ''
+  password: '********'
+  ignoreError: true
